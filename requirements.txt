@@ -1,5 +1,5 @@
 Flask==1.0.2
 requests==2.22.0
-BeautifulSoup==7.7.1
+beautifulsoup4==7.7.1
 
 gunicorn
